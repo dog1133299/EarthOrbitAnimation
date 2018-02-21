@@ -86,8 +86,7 @@
  *{
  	margin: 0 auto;
  	padding: 0;
- 	text-align: center;
- 	font-size: 50px;
+ 	text-align: center; 
  }
  body{
  	overflow: hidden;
@@ -265,14 +264,15 @@
  .r9{-webkit-transform: translate(-35vw,15vw);-ms-transform: translate(-35vw,15vw);transform: translate(-35vw,15vw);}
  .r10{-webkit-transform: translate(-20vw,20vw);-ms-transform: translate(-20vw,20vw);transform: translate(-20vw,20vw);}
 
-
  .msg{
  	width: 100%;
  	position: absolute;
  	bottom: 0;
+ 	color: white;
  	text-align: center;
  	font-family: 'Square721 BT','Montserrat', sans-serif;
  	font-size: 20px;
- 
  }
- 
+ .msg>a{
+ 	text-decoration: none; 
+ }
