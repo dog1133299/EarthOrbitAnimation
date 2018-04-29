@@ -1,7 +1,7 @@
 # EarthOrbitAnimation
 Sun&amp;Earth Orbit Animation with pure CSS
 
-![EarthOrbitAnimation](src\EarthOrbitAnimation.png)
+![EarthOrbitAnimation](src/EarthOrbitAnimation.png)
 
 ## See it at :https://dog1133299.github.io/EarthOrbitAnimation/
 
